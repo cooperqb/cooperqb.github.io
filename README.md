@@ -1,7 +1,7 @@
 # cooperqb.github.io
  [My Personal Website](https://cooperqb.github.io/)
  
- '''
+ '''html
  <!DOCTYPE html>
 <html>
     <head>
