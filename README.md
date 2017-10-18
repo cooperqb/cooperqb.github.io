@@ -1,7 +1,7 @@
 # cooperqb.github.io
  [My Personal Website](https://cooperqb.github.io/)
  
- '''html
+ ```html
  <!DOCTYPE html>
 <html>
     <head>
@@ -57,4 +57,4 @@
     </body>
 </html>
 
-'''
+```
